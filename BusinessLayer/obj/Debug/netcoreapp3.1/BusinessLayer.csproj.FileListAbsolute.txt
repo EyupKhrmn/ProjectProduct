@@ -1,0 +1,14 @@
+C:\Users\T480_Home\Desktop\ProjectProductV5\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\T480_Home\Desktop\ProjectProductV5\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\T480_Home\Desktop\ProjectProductV5\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\T480_Home\Desktop\ProjectProductV5\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\T480_Home\Desktop\ProjectProductV5\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\T480_Home\Desktop\ProjectProductV5\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\T480_Home\Desktop\ProjectProductV5\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\T480_Home\Desktop\ProjectProductV5\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\T480_Home\Desktop\ProjectProductV5\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\T480_Home\Desktop\ProjectProductV5\BusinessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\T480_Home\Desktop\ProjectProductV5\BusinessLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\T480_Home\Desktop\ProjectProductV5\BusinessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\T480_Home\Desktop\ProjectProductV5\BusinessLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\T480_Home\Desktop\ProjectProductV5\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete

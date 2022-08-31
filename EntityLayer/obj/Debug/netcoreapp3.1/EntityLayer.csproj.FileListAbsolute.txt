@@ -1,0 +1,9 @@
+C:\Users\T480_Home\Desktop\ProjectProductV5\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.deps.json
+C:\Users\T480_Home\Desktop\ProjectProductV5\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\T480_Home\Desktop\ProjectProductV5\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\T480_Home\Desktop\ProjectProductV5\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csprojAssemblyReference.cache
+C:\Users\T480_Home\Desktop\ProjectProductV5\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\T480_Home\Desktop\ProjectProductV5\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfo.cs
+C:\Users\T480_Home\Desktop\ProjectProductV5\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\T480_Home\Desktop\ProjectProductV5\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\T480_Home\Desktop\ProjectProductV5\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.pdb
